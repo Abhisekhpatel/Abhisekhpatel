@@ -8,7 +8,7 @@ Building **AgentAutopsy** — the post-mortem debugger for AI agents.
 
 ## What I'm building
 
-**[AgentAutopsy](https://github.com/Abhisekhpatel/AgentAutopsy)** — When your AI agent fails silently, AgentAutopsy tells you exactly why. Post-mortem debugging, schema drift detection, DVR replay, and automatic eval generation. v2.1.0 · 2.1k downloads/month
+**[AgentAutopsy](https://github.com/Abhisekhpatel/AgentAutopsy)** — When your AI agent fails silently, AgentAutopsy tells you exactly why. Post-mortem debugging, schema drift detection, DVR replay, and automatic eval generation. v2.1.0 · 10k downloads/month
 
 ---
 
