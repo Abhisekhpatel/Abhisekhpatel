@@ -1,4 +1,4 @@
-# AbhishekPatel
+# Abhisekh Patel
 
 Building **AgentAutopsy** — the post-mortem debugger for AI agents.
 
