@@ -2,7 +2,6 @@
 
 Building **AgentAutopsy** — the post-mortem debugger for AI agents.
 
-
 20 · Originally from Nepal · Based in London · Building in public
 
 ---
