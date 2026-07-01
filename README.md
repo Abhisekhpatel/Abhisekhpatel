@@ -17,7 +17,7 @@ Building **AgentAutopsy** — the post-mortem debugger for AI agents
 - Contributed fixes to LangChain (issues #37251 and #37878)
 - Built MCP post-mortem tracing, schema drift detector, DVR fork and replay, auto eval generation ↗
 - 2 open source contributors, active community
-
+- 
 ---
 
 ## Stack
